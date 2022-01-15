@@ -13,10 +13,8 @@ I am [Abhishek Kumar Pandey](https://abhishek-pandey.me) a Frontend Engineer, wi
 
 <br />
 
- <a href="https://github.com/abhishekpandeykr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekpandeykr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abhishek Kumar Pandey's Github Stat" /></a>  <a href="https://github.com/abhishekpandeykr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpandeykr&layout=compact&theme=buefy&hide_border=true" /></a> 
-
-
-
+| <a href="https://github.com/abhishekpandeykr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekpandeykr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abhishek Kumar Pandey's Github Stat" /></a> | <a href="https://github.com/abhishekpandeykr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpandeykr&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
