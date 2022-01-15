@@ -12,9 +12,10 @@ I am [Abhishek Kumar Pandey](https://abhishek-pandey.me) a Frontend Engineer, wi
 <code>[<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/199px-Svelte_Logo.svg.png">](https://svelte.dev/)</code>
 
 <br />
-<a href="https://github.com/abhishekpandeykr/abhishekpandeykr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekpandeykr&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Abhishek Kumar Pandey's Github Stat" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpandeykr&layout=compact&theme=buefy&hide_border=true)](https://github.com/abhishekpandeykr/abhishekpandeykr)
+ <a href="https://github.com/abhishekpandeykr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekpandeykr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abhishek Kumar Pandey's Github Stat" /></a>  <a href="https://github.com/abhishekpandeykr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpandeykr&layout=compact&theme=buefy&hide_border=true" /></a> 
+
+
 
 
 
