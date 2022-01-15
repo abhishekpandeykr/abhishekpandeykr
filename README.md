@@ -11,6 +11,9 @@ I am [Abhishek Kumar Pandey](https://abhishek-pandey.me) a Frontend Engineer, wi
 <code>[<img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">](https://graphql.org/)</code>
 <code>[<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/199px-Svelte_Logo.svg.png">](https://svelte.dev/)</code>
 
+<br />
+<a href="https://github.com/abhishekpandeykr/abhishekpandeykr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekpandeykr&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Abhishek Kumar Pandey's Github Stat" /></a> | <a href="https://github.com/abhishekpandeykr/abhishekpandeykr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpandeykr&layout=compact&theme=cobalt&hide_border=true" /></a>
+
 
 
 
